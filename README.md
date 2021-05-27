@@ -1,4 +1,4 @@
-# Track-Pakistan-Covid
+# Track-Pakistan-Covid-API
 **This API provides information associated with covid 19 of every province of Pakistan.**
 
 1. Total Cases
